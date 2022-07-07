@@ -1,1 +1,3 @@
 test yapildi
+2.satir yazildi
+3.satir yazildi
